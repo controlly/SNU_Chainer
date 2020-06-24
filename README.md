@@ -1,4 +1,5 @@
 # SNU Chainer
+基于 chainer 框架构成，完成了LIF神经元的主要功能。
 Spiking neural unit implemented with Chainer-v5  
 See: https://arxiv.org/abs/1812.07040
 
